@@ -1,6 +1,6 @@
 # combine_dots_ocr
 
-Combine [dots.mocr](https://github.com/studio-dots-ai/dots.mocr) - [Live demo](https://dotsocr.xiaohongshu.com/) per-page Markdown files into one Markdown document.
+Combine [dots.mocr](https://github.com/studio-dots-ai/dots.mocr) ([Live demo](https://dotsocr.xiaohongshu.com/)) per-page Markdown files into one Markdown document.
 
 > You upload a PDF to dots.mocr, download the zip output, extract it — and get one Markdown file per page. This script merges them back into a single document, in page order.
 
